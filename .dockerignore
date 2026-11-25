@@ -1,0 +1,10 @@
+**/node_modules
+**/vendor
+**/dist
+**/.git
+**/.env
+**/.env.mobile
+frontend/ios
+frontend/android
+backend/storage/logs/*.log
+backend/bootstrap/cache/*.php

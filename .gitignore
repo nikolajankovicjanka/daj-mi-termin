@@ -1,0 +1,16 @@
+.env
+.env.mobile
+**/node_modules/
+**/vendor/
+**/dist/
+**/database/*.sqlite*
+**/bootstrap/cache/*.php
+**/storage/logs/*.log
+**/storage/framework/views/*.php
+**/storage/framework/sessions/*
+**/storage/framework/cache/data/*
+**/public/storage
+*.jks
+*.keystore
+*.apk
+*.aab

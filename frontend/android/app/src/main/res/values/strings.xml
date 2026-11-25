@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Termin</string>
+    <string name="title_activity_main">Termin</string>
+    <string name="package_name">ba.termin.client</string>
+    <string name="custom_url_scheme">ba.termin.client</string>
+</resources>
